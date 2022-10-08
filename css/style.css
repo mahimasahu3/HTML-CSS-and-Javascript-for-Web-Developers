@@ -1,8 +1,13 @@
-{
+*{
 box-sizing: border-box;
 }
 h1{
 margin-bottom: 15px;
+  align:center;
+}
+h2{
+margin-bottom: 15px;
+  align:right;
 }
 p{
 border: 1px solid black;
